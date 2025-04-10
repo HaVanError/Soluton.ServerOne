@@ -1,6 +1,10 @@
 ﻿## :desktop_computer:_Server ASP.NET CORE API Login
 - Nền tản ASP.NET CORE 6 
-- Ứng dụng tích hợp chức năng Login sử dụng JWT TOKEN 
+## :lock: Feature
+- Login bằng JWT TOKEN 
+- Phân Quyền 
+- Một số tính năng có thể mở rộng bên thứ 3 
+
 ## :file_cabinet: DATABASE
 - SQL Server
 - Procedure Stores/Function Để CRUD
@@ -13,5 +17,5 @@
 
 --------------------------------------
 ## :man_technologist: Author
-- Tên : HAVANERROR
+- Tên : HavanError
 - Vai Trò : Dev 
