@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "db": "Data Source=PC\\SQLEXPRESS;Initial Catalog=Solution.ServerOneDB;Persist Security Info=True;User ID=sa;Password=123;Trust Server Certificate=True"
+  }
+}
