@@ -14,8 +14,8 @@
 - Entity Framework Core.SqlServer(6.0.36)
 - AspNetCore.Authentication.JwtBear (6.0.36)
 - AutoMapper(6.2.2)
-## Architeach
-- Clearn Architeach 
+## Architecture 
+- Clean Architecture  
 --------------------------------------
 ## :man_technologist: Author
 - Tên : HavanError
